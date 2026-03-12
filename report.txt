@@ -1,0 +1,19 @@
+==================================================================================================================================
+
+Annual Trash Collected: 6.84375e+06 kg (6843.75 tons)
+Monthly Trash Collected: 562500 kg
+Daily Trash Collected: 18750 kg
+Total Fuel Cost: Rs. 76950
+
+Total Distance Traveled in a Day: 405 km
+Total Distance Traveled in a Month: 12150 km
+Average Distance Traveled per Truck: 81 km
+
+Daily Fuel Cost: Rs. 76950
+Monthly Fuel Cost: Rs.2.3085e+06
+Total Trips: 9
+==================================================================================================================================
+
+Complaints:
+ID: 5 | Category: Waste Collection | Description: HGHJGYJH | Priority: 3
+ID: 1 | Category: Suggestion | Description: Add some more trucks in your fleet. | Priority: 5

@@ -1,0 +1,110 @@
+Areas Information:
+Area Name           Population     Waste Growth Rate   Garbage per Day (kg)
+---------------------------------------------------------------------------
+5-STAR              2000           0.6                 1200                 kg
+AIRPORT             2000           0.6                 1200                 kg
+GULSHAN             2666.67        0.6                 1600                 kg
+HADEED              1500           0.6                 900                  kg
+HIGHWAY             2000           0.6                 1200                 kg
+KARSAZ              2666.67        0.6                 1600                 kg
+LIAQATABAD          3750           0.6                 2250                 kg
+MALIR               3750           0.6                 2250                 kg
+MAZAR-E-QUAID       3750           0.6                 2250                 kg
+NAGAN               2000           0.6                 1200                 kg
+NAZIMABAD           833.333        0.6                 500                  kg
+SADDAR              833.333        0.6                 500                  kg
+SAFOORA             3500           0.6                 2100                 kg
+
+Available Trucks:
+Truck ID       Capacity (kg)
+-------------------------
+T1             1000 kg
+T2             2000 kg
+T3             4500 kg
+T4             1000 kg
+T5             2500 kg
+
+Truck Trips:
+---------------------------------------------------------------------------
+
+Truck ID: T1
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (500 kg) -> LIAQATABAD (500 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 23 km
+Truck Capacity: 1000 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T2
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (1750 kg) -> MAZAR-E-QUAID (250 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 36 km
+Truck Capacity: 2000 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T3
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> 5-STAR (1200 kg) -> NAGAN (1200 kg) -> HIGHWAY (1200 kg) -> HADEED (900 kg) -> HIGHWAY (0 kg) -> NAGAN (0 kg) -> 5-STAR (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 61 km
+Truck Capacity: 4500 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T4
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> MAZAR-E-QUAID (1000 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 36 km
+Truck Capacity: 1000 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T5
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> GULSHAN (1600 kg) -> SAFOORA (900 kg) -> GULSHAN (0 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 48 km
+Truck Capacity: 2500 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T1
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> MAZAR-E-QUAID (1000 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 36 km
+Truck Capacity: 1000 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T2
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> GULSHAN (0 kg) -> KARSAZ (1600 kg) -> MALIR (400 kg) -> KARSAZ (0 kg) -> GULSHAN (0 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 57 km
+Truck Capacity: 2000 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T3
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> GULSHAN (0 kg) -> SAFOORA (1200 kg) -> MALIR (1850 kg) -> AIRPORT (1200 kg) -> KARSAZ (0 kg) -> SADDAR (250 kg) -> MAZAR-E-QUAID (0 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 63 km
+Truck Capacity: 4500 kg, Returning with: 0 kg Capacity Left
+
+
+Truck ID: T4
+Route: 
+Dumping Station (0 kg) -> NAZIMABAD (0 kg) -> LIAQATABAD (0 kg) -> MAZAR-E-QUAID (0 kg) -> SADDAR (250 kg) -> MAZAR-E-QUAID (0 kg) -> LIAQATABAD (0 kg) -> NAZIMABAD (0 kg) -> Dumping Station (0 kg)
+
+Total Distance Traveled: 45 km
+Truck Capacity: 1000 kg, Returning with: 750 kg Capacity Left
+
+All areas serviced and garbage delivered to the dumping station.
+
+Truck ID: T1 made 2 trips and traveled 59 km.
+Truck ID: T2 made 2 trips and traveled 93 km.
+Truck ID: T3 made 2 trips and traveled 124 km.
+Truck ID: T4 made 2 trips and traveled 81 km.
+Truck ID: T5 made 1 trips and traveled 48 km.
+
+Total number of trips by all trucks: 9
+Total distance traveled by all trucks: 405 km

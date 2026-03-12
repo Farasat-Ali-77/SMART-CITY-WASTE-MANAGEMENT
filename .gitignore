@@ -1,0 +1,85 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.sdf
+*.opensdf
+*.vc.db
+*.vc.opendb
+.vs/
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pch
+*.ipch
+*.aps
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+
+# Cache and temporary files
+*.cache
+*.temp
+*.tmp
+
+# IntelliSense/Browse information
+*.browse.vc
+*.browse.vcxproj
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# IDE specific
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled files
+CityWaste/x64/
